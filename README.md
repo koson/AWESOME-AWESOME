@@ -39,3 +39,7 @@ lists/awesome-bash|https://github.com/awesome-lists/awesome-bash
 ai collection|https://github.com/ai-collection/ai-collection
 svg|https://github.com/willianjusten/awesome-svg
 icons|https://github.com/notlmn/awesome-icons
+dotnet core|https://github.com/thangchung/awesome-dotnet-core
+net libraries|https://github.com/tallesl/net-libraries-that-make-your-life-easier
+dotnet|https://github.com/quozd/awesome-dotnet
+awesomeness|https://github.com/bayandin/awesome-awesomeness
