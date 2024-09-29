@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/3417dba1-7a3b-42f3-8c41-257d45136ece)# AWESOME-AWESOME
-
+# AWESOME-AWESOME
 
 
 |Topic|Link|
